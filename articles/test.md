@@ -11,7 +11,7 @@ This is a test of Gitpress.io, which is an awesome blog supported by github.
 
 #### title 4
 
-```python3
+```python
 def hello():
   print('hello!')
 ```
